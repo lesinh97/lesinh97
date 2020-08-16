@@ -21,7 +21,7 @@
 
 ## Languages and Tools 💻 🛠:
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-line.svg" alt="c" width="40" height="40"/> 
+<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-line.svg" alt="c" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="40" height="40"/>
@@ -44,15 +44,17 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<br/>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesinh97&layout=compact&hide=html" alt="lesinh97" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesinh97&layout=compact&hide=html" alt="lesinh97" /></p>
+
+<br>
 
 <details open> 
  <summary>🤖 <b>My programming stats</b>: </summary>
-  <br />
+  <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lesinh97&show_icons=true" alt="lesinh97" /></p>
-  <br />
+  <br>
 </details>
 
 ### What I am currently listening 🎧
