@@ -45,9 +45,11 @@
 </p>
 
 <br>
-
+<details open> 
+ <summary>🤖 <b>My most used languages</b>: </summary>
+ <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesinh97&layout=compact&hide=html" alt="lesinh97" /></p>
-
+</details>
 <br>
 
 <details open> 
