@@ -48,9 +48,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesinh97&layout=compact&hide=html" alt="lesinh97" /></p>
 
-### My activity
-
+<details open> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+  <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lesinh97&show_icons=true" alt="lesinh97" /></p>
+  <br />
+</details>
 
 ### What I am currently listening 🎧
 
