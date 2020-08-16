@@ -21,7 +21,7 @@
 
 ## Languages and Tools 💻 🛠:
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-line.svg" alt="c" width="40" height="40"/> 
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-line.svg" alt="c" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="40" height="40"/>
