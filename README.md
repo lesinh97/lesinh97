@@ -11,7 +11,7 @@
 
 - 🥅 2020 Goals: **Contribute more to Open Source projects**
 
-- 👨‍💻 All of my projects are available at: [github.com/lesinh97](github.com/lesinh97)
+- 👨‍💻 All of my projects are available at: [github.com/lesinh97](https://github.com/lesinh97)
 
 - 💬 Ask me about: **Micro Python**
 
@@ -44,9 +44,11 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="linux" width="40" height="40"/>
 </p>
 
-### My activity
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesinh97&layout=compact&hide=html" alt="lesinh97" /></p>
+
+### My activity
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lesinh97&show_icons=true" alt="lesinh97" /></p>
 
@@ -60,7 +62,6 @@
   
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/lawlietle) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ldsinh/)
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://lesinh97.github.io/)
 [![Visits Badge](https://badges.pufler.dev/visits/lesinh97/lesinh97?style=for-the-badge&color=blue)](https://github.com/lesinh97/lesinh97)
 ![Repos Badge](https://badges.pufler.dev/repos/lesinh97?style=for-the-badge&color=red)
 
