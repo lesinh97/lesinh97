@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinh</h1>
-<h3 align="center">I love the rest of the world</h3>
+<h3 align="center">Glad to see you there</h3>
 
 ### About me 💬:
 
@@ -9,13 +9,9 @@
 
 - 👯 I’m looking to collaborate with **all people in the world**
 
-- 🥅 2020 Goals: **Reach atleast 4 min in plank**
-
 - 👨‍💻 All of my projects are available at: [github.com/lesinh97](https://github.com/lesinh97)
 
 - 💬 Ask me about: **Micro Python**
-
-- 📫 How to reach me: **dinhsinh.le@outlook.com**
 
 - ⚡ Fun fact about me: **I love to write down what I'm thinking**
 
