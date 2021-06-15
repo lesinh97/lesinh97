@@ -30,9 +30,13 @@
   <br>
 </details>
 
-### What I am currently listening 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kzcv78s4nahpess04jo1ymd9u&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kzcv78s4nahpess04jo1ymd9u&redirect=true)
+### 
+<details open> 
+ <summary>🎧 <b>What I am currently listening</b>: </summary>
+  <br>
+ <p>&nbsp;<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=kzcv78s4nahpess04jo1ymd9u&cover_image=true&theme=default" alt="spotify"/></p>
+  <br>
+</details>
 
 ### Connect with me
 
