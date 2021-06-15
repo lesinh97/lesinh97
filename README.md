@@ -32,7 +32,7 @@
 
 ### What I am currently listening 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kzcv78s4nahpess04jo1ymd9u&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kzcv78s4nahpess04jo1ymd9u&redirect=true)
 
 ### Connect with me
 
